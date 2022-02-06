@@ -1,6 +1,9 @@
 # Disclaimer
 This is a fork of the Genshin-data and is fetched upstream from the genshin-data main repo. This fork is for general person use and for the use of GitHub Pages so it's public with use with my discord bot and projects that need Genshin data. I'll probably edit some information such as add photos in and little things like that.
 
+My discord is janeberru#4594 just as a note if anyone would like to ask any questions about this.
+(This README file will probably never get edited again)
+
 # Genshin Data
 
 This information is from fandom and various other sources (credits are at the bottom).
